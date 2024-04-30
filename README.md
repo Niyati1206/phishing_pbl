@@ -1,3 +1,6 @@
 # phishing_pbl
 
-To run """streamlit run app.py"""
+To run
+```bash
+streamlit run app.py```
+
